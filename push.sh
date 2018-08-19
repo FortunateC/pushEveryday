@@ -5,5 +5,5 @@ do
 	git add .
 	git commit -m "update"
 	git push origin master
-	sleep 30s
+	sleep 9h
 done
